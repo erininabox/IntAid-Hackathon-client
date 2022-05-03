@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "InventoryApp",
+    "slug": "InventoryApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
